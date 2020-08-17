@@ -5,4 +5,4 @@ GitHuBとMarkdown でよく使うコマンドおよび書式について簡単�
 GitHuBで使うコマンドとその説明です。
 
 ### demo-Markdown
-Markdownの書式とサンプルファイルを用意しました。
+Markdownの書式とサンプルファイルです。

@@ -9,7 +9,7 @@ MacではHomebrewを用いたインストールが簡単にインストールす
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-その後以下のコマンドでGitをインストールすることができます。
+その後、以下のコマンドでGitをインストールすることができます。
 
 ```
 brew install git
